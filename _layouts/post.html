@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<div class="post">
+    <h2>{{ page.title }}</h2>
+    <small>{{ page.date | date_to_long_string }}</small>
+    <div class="entry">
+        {{ content }}
+    </div>
+    {% if page.comments %}
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'ardaxi';
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript><p>If you had Javascript enabled, you would see comments here.</p></noscript>
+    {% endif %}
+</div>

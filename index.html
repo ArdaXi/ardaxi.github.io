@@ -1,0 +1,27 @@
+---
+layout: default
+title: Home
+---
+
+{% for post in paginator.posts %}
+<div class="post">
+    <h2><a href="{{ post.url }}" rel="bookmark">{{ post.title }}</a></h2>
+    <small>{{ post.date | date_to_long_string }}</small>
+    <div class="entry">
+        {{ post.excerpt }}
+        <p><a href="{{ post.url }}">Read the rest of this entry &raquo;</a></p>
+    </div>
+</div>
+{% endfor %}
+<div class="navigation">
+    {% if paginator.next_page %}
+    <div class="alignleft"><a href="/page{{ paginator.next_page }}">&laquo; Older Entries</a></div>
+    {% endif %}
+    {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <div class="alignright"><a href="/">Newer Entries &raquo;</a></div>
+    {% else %}
+    <div class="alignright"><a href="/page{{ paginator.previous_page }}">Newer Entries &raquo;</a></div>
+    {% endif %}
+    {% endif %}
+</div>

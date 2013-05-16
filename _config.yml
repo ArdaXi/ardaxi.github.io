@@ -1,0 +1,6 @@
+lsi: false
+markdown: rdiscount
+permalink: /:title
+paginate: 3
+excerpt_separator: "<!-- more -->"
+exclude: ['update']
