@@ -1,0 +1,15 @@
+The one thing I always have been and still am obsessed with is the workings of my own mind. I spend close to every waking moment of my life thinking about that in one way or another. I suppose it's because there's no real right or wrong answer. A lot of science is relatively rigid, but psychology is a whole different matter. However, this is also what makes it really frustrating, because I want to understand.
+
+I've lived my life under one creed: knowledge is power. I always thought that the more I knew, …something would improve. It just seems obvious that more knowledge is always better. You have more to work with, more to make decisions with. However, there is one thing that the human mind is incapable of sustaining rationally. Contradictions. And my brain is filled with them.
+
+The simplest one would be that empirically, my creed doesn't hold up. I spend more time and energy thinking and (I'd like to think) consequently knowing about stuff like social interaction than most people. However, at the same time I am, empirically speaking, dramatically worse at it than those people are. This, by itself, would lend itself to the logical conclusion that not only is my declaration — knowledge is power — not true, the opposite is.
+
+On the other hand, this is not the full picture. The above is what I've been telling myself for too long. The contradiction to that one is that while my personal life is very far away from what I'd like to be, when I do interact with people I do very well out of it. At least, if I want to. Gaining people's trust comes very naturally to me.
+
+Given that, there is a new contradiction I must explain. Given the fact that I want a social life and I am not in fact socially inept, why don't I? Truthfully, I don't try. In fact, I take some sort of perverse satisfaction from abstaining. Having been ostracized for my way of thinking in my childhood, I took my difference as a strength and revered in it. All the while suppressing that voice inside that wanted to be accepted, needed what came naturally to everyone around me.
+
+Even now, I look at the chat sidebar on Facebook and see all these people from my past who I'd love to get back in touch with. I know it wouldn't take more than a simple message, and yet I don't. Why? I can think of explanations but I have no idea which, if any, is the right one. The simplest would probably be that I've simply always done it this way and change is hard. There is also the factor of control.
+
+I strive to keep in control in anything I do. It's what drove me to drop out of school and pursue freelancing. Somehow, starting social interaction makes me feel like I lose that control. Even while writing this I realise it doesn't make a lot of sense, I suppose that's what I'm trying to accomplish writing all of this down in the first place. Check my premises.
+
+I guess the gist of it is that I'm trying to change myself, while I don't want to break character. That is the real contradiction I have to solve. I need to break character. The one thing I still don't know is, where the hell do I start?
