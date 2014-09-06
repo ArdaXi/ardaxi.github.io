@@ -1,7 +1,15 @@
+---
+author: ArdaXi
+comments: true
+date: 2014-09-06 14:38:38
+layout: post
+slug: contradictions
+title: Contradictions
+---
 The one thing I always have been and still am obsessed with is the workings of my own mind. I spend close to every waking moment of my life thinking about that in one way or another. I suppose it's because there's no real right or wrong answer. A lot of science is relatively rigid, but psychology is a whole different matter. However, this is also what makes it really frustrating, because I want to understand.
 
 I've lived my life under one creed: knowledge is power. I always thought that the more I knew, …something would improve. It just seems obvious that more knowledge is always better. You have more to work with, more to make decisions with. However, there is one thing that the human mind is incapable of sustaining rationally. Contradictions. And my brain is filled with them.
-
+<!-- more -->
 The simplest one would be that empirically, my creed doesn't hold up. I spend more time and energy thinking and (I'd like to think) consequently knowing about stuff like social interaction than most people. However, at the same time I am, empirically speaking, dramatically worse at it than those people are. This, by itself, would lend itself to the logical conclusion that not only is my declaration — knowledge is power — not true, the opposite is.
 
 On the other hand, this is not the full picture. The above is what I've been telling myself for too long. The contradiction to that one is that while my personal life is very far away from what I'd like to be, when I do interact with people I do very well out of it. At least, if I want to. Gaining people's trust comes very naturally to me.
