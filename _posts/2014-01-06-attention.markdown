@@ -12,11 +12,11 @@ I’m going to start this off with a disclaimer. I am a young, naive, depressed 
 
 This actually came to me while listening to James Blunt’s new album. The specific music isn’t really that important, it’s about the lyrics. I happen to love his music because I love the lyrics. Most of them are love songs or close to it, which is exactly why they appeal to me.
 <!-- more -->
-> Seems that everyone we know
-> Is out there waiting by a phone
-> Wondering why they feel alone
-> In this life
-
+> Seems that everyone we know  
+> Is out there waiting by a phone  
+> Wondering why they feel alone  
+> In this life  
+  
 > — Sattelites by James Blunt
 
 Of course, while quoting something like that, I feel silly. Like angst is some thing that people are not supposed to express. That quoting song lyrics is bad form, that it makes me look stupid. That it’s just looking for attention. I can’t even accurately put it into words. All I know is that this form of ‘expression’ is not done.
@@ -37,13 +37,13 @@ I’ve since had a slightly complicated relationship for a while, which I though
 
 Regardless, the story resonated with me in an amazingly strong way. Despite the fact that I had a loving girlfriend next to me at the time, I felt incredibly alone in this world. I still do. I wish I could explain it somehow, but I cannot. I have the best friend I could wish for. I did then, too. I do not know what I am missing. But I am missing something.
 
-> A wishful look,
-> A hesitate,
-> You're hoping I will notice that you're not ok,
-> And me the fool,
-> You turn away,
-> It's only then I feel the weight of my mistakes.
-
+> A wishful look,  
+> A hesitate,  
+> You're hoping I will notice that you're not ok,  
+> And me the fool,  
+> You turn away,  
+> It's only then I feel the weight of my mistakes.  
+  
 > — Sun on Sunday by James Blunt
 
 Yeah, I’m quoting him again. The truth is, I do seek attention. I do want people to notice I’m not okay. But then, when they do, I cannot deal with it. People do reach out to me sometimes. “If you ever feel down, let me know, we can go do something.” It’s well-meant, surely. I genuinely appreciate those people. But I cannot step over the threshold of taking them up on that offer.
