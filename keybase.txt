@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/ardaxi
+--------------------------------------------------------------------
+I hereby claim:
+  * I am an admin of http://ardaxi.com
+  * I am ardaxi (https://keybase.io/ardaxi) on keybase.
+  * I have a public key with fingerprint E484 F236 27D3 A57C 62DA  B304 86D2 133C 73F8 0E16
+To claim this, I am signing this object:
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
+        "key": {
+            "fingerprint": "e484f23627d3a57c62dab30486d2133c73f80e16",
+            "host": "keybase.io",
+            "key_id": "86D2133C73F80E16",
+            "uid": "e1c598ec5d6bccb43534f1b00a794d00",
+            "username": "ardaxi"
+        },
+        "merkle_root": {
+            "ctime": 1418636790,
+            "hash": "067e400f110127b394e26b3c4245264c012c6a4d21776b71937c28fda6a45164f56d7a3eff4c6a87ef79c44e664ea62b8c61dcdb96ba89636e86a3ee79ae404c",
+            "seqno": 109337
+        },
+        "service": {
+            "hostname": "ardaxi.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1418636801,
+    "expire_in": 157680000,
+    "prev": "1374d82d772705d9de57ac2251d69c281e431958cd9ad6d24cb72ecb2db1a080",
+    "seqno": 20,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFVkn9QFGUYx+9O5YcKgqjTryFYmybDzv35vruQGSAqWU7jSM4JdOzu+x6ucLfn
+3oowRDTSyDAWSokwRjL+YZehJCokkzgOo00DNmeap8igWTiKUKYjiYnZu4xNsX/t
+fvfzfp/n+zzvjpgpNod967mEVwNjsfPsvUOKbU1tq72cUnRURqWWU2qxhn2m9eaT
+vZhKpYpwmSIHsFPTk3w6ws4NgaQnzEKqBBsBTfcRinZCJ0dVLLRw67BH8xViw29o
+lheFeZH3sBxgIeJkAaqARbLC0bwIEMtwnAo5j0hjBhDL9XrAnFSVmvB0a4ioIlhq
+8ZmQWybSWRP8pokfmFEFScSqgICiqgrPCRzvYRSalqHEI5q2wAA2nkSSDSSXala3
+XmwUFWO3oesTkVVTswCGZ0TAASjRpB85sN7KByDmadrDMDTDQoWTeMwChVN5lhdY
+wKtEVYHMkzgQAgUyEgdVVvQgmYgCA3iPABCUOezx8IQTIfZASeV5DACPZcAqogoY
+pCJFAoosSqQ4FgHBMZRkUpdXSYAA3ujTSXO0xHGwwvo2SjQVW31bQ5uUzanqXnLE
+b+imrurFRF9vmv5UK7JZ5re4zVhxWw5fEQu3ovkQWdj/N8oQdPI4RJpZSOFSv2Zg
+t2YRAiQaeaw6uIR4MhzkkcgiCFlIC0hCWICyyrICg4BExsFgnmMkQVSRJCOyel5V
+IItVhUUKI9Mi/V9IlpiaciHxDGiFPtncZGCqosbx3FSb3WGLmOaw7qxtenTcvxe5
+ryvOtkVYlnSpGQWnNgy3z+hZd9OlxzWGO74+ErXv15OIrS5eVnTor+0zg6OzBKrd
+ETknkdvd1B+OyM4p0Bxo+FhL/c6xtQ+6X+nqdb37W3X2DynelVujri/p//bD+9Et
+ZnifUTxv9WJ3xzNxwxdTLkRm//7F2c/To8/XBk+FX6zP6UeXYw417m9qi9TM4w2P
+G+vm7nT15i0C7RkL9i7v3IarV8fsQf1iymvzzXXtJ6447M1uW+an42Z3DDKSRn68
+1/FWYq5cid52DYTgdx8njc3usH/2y3Z4+LSZLD8aFLWYl+4Ojs5MXT4F7Q2lD9Tf
+OQhtsWt/ctcc9yYrKQ9D4TNRlQWPg/Di3ZpwtnniQt/BsZkO5Xbuqk7XkVsbVqQ/
+tWS8Mz2z6Mwsd0TE+WA8CAViqZtX77zTmFUw9cbZRTcLetpqCv84kCyj6hsRza2z
+85W1Cd1j14925wzOrxsQ2tZce9i88lbKraor8dnHdj+bebK+6sH9xrShebnvf+9S
+tnx5OTL53FDptupLLlgWO+LM+8gev8t7bUTPaSl/1Jv2d1vTn9Sql49MTygM3s8/
+syIv/9zru+h4lT2QltH1hu2T3MOJgzjvhZ73MlprW/1pS8P36M7Eijn81dOLv/kg
+FNqohG4/XzpQN3542oz9b04fWMD2Re4YPaX3zT1akpDVYNtTtfnn5U9XBgf/AQ==
+=PIrP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ardaxi
+
+==================================================================
