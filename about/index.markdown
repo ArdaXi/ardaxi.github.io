@@ -9,16 +9,4 @@ wordpress_id: 5
 ---
 
 I'm Arda Xi. My real name is Ariën Holthuizen.
-I'm a 18 year old student from Nieuw-Vennep in The Netherlands.
-I'm a software engineer with a penchant for web development.
-
-Languages I know, in order of proficiency:
-
-\- C#  
-\- Javascript  
-\- Python  
-\- PHP  
-\- Java  
-\- C++  
-\- Lua  
-\- MySQL  
+I'm a 20 year old DevOps Ninja from Nieuw-Vennep in The Netherlands.
