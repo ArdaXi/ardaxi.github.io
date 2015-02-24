@@ -1,10 +1,10 @@
 ---
 author: ArdaXi
 comments: true
-date: 2014-10-19 21:27:45
+date: 2015-02-24 17:29:45
 layout: post
-slug: materialism
-title: Materialism
+slug: habits
+title: Habits
 ---
 
 I have a habit of only writing to deal with my feelings. I only need to deal
