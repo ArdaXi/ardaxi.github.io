@@ -1,5 +1,5 @@
 lsi: false
-markdown: rdiscount
+markdown: kramdown
 permalink: /:title
 paginate: 3
 excerpt_separator: "<!-- more -->"
