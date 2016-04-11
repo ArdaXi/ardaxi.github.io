@@ -16,31 +16,36 @@ package with one simple struct, and look at how we can read the types inside, an
 <!-- more -->
 
 This is our example code:
+
     package main
 
     type Foo struct {
       Bar string
     }
+
 You'll note that we are including a package directive. Without it, the parser will refuse to parse the file. To dump the ast, I've taken the example code from [go/ast].
-  package main
 
-  import (
-    "go/ast"
-    "go/parser"
-    "go/token"
-    "os"
-  )
+    package main
 
-  func main() {
-    fset := token.NewFileSet()
-    f, err := parser.ParseFile(fset, os.Args[1], nil, 0)
-    if err != nil {
-      panic(err)
+    import (
+      "go/ast"
+      "go/parser"
+      "go/token"
+      "os"
+    )
+
+    func main() {
+      fset := token.NewFileSet()
+      f, err := parser.ParseFile(fset, os.Args[1], nil, 0)
+      if err != nil {
+        panic(err)
+      }
+
+      ast.Print(fset, f)
     }
 
-    ast.Print(fset, f)
-  }
 Compiling and installing this as `ast` gives us a command we can run on any Go file. Running it on our earlier snippet:
+
      0  *ast.File {
      1  .  Package: testast.go:1:1
      2  .  Name: *ast.Ident {
@@ -104,5 +109,6 @@ Compiling and installing this as `ast` gives us a command we can run on any Go f
     60  .  .  0: *(obj @ 39)
     61  .  }
     62  }
+
 You can see that at the top level, an `*ast.File` has a few interesting fields. It has the position where the package starts, the package name, declarations, scope,
 and unresolved objects. Because the struct we want to modify is a top level declaration, we'll want to look in the `Decls` field.
